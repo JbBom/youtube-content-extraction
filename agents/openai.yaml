@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 内容提取"
+  short_description: "下载音频、转录、校验并整理 YouTube 视频内容"
+  default_prompt: "Use $youtube-content-extraction to extract and summarize this YouTube video: <URL>"
